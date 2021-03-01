@@ -85,7 +85,7 @@ I am selecting Boston AirBnB listings as my dataset for the study. It is availab
 
 ## Dashboard
 __Home Page__
-![home](/img/visual.png)
+![home](/img/Visual.png)
 
 __Predictions__
 ![predictions](/img/prediction.png)
